@@ -1,1 +1,4 @@
-console.log("Hello World");
+const a = () =>{
+    console.log("hEllo");
+    
+}
